@@ -6,3 +6,5 @@ ex1: Linear Regression
 ex2: Logistic Regression
 
 ex3: Multi-Class Classification and Neural Networks
+
+ex4: Neural Networks Learning
